@@ -26,7 +26,7 @@ body {
 }
 
 .link:hover {
-    box-shadow: inset 0px 2px 5px #73c99b;
+    box-shadow: inset 0rem 0.2rem 0.3rem #73c99b;
     color: rgb(221, 98, 194)
 }
 
@@ -43,7 +43,7 @@ h1 {
 }
 
 .service-item:hover {
-    box-shadow: inset 0px 20px 20px rgba(198, 117, 174, 0.5);
+    box-shadow: inset 0rem 1.2rem 1.2rem rgba(198, 117, 174, 0.5);
     color: #73c99b;
 }
 
@@ -75,9 +75,9 @@ table {
     padding: 0.3rem;
 }
 
-.btn:hover {
-    box-shadow: inset 10px 20px 35px #94caad;
-    cursor: pointer;
+a:hover {
+   box-shadow: inset 0rem 1.2rem 1.2rem rgba(198, 117, 174, 0.5);
+    color: #73c99b;
 }
 
 a {
